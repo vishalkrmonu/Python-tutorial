@@ -1,0 +1,5 @@
+PS D:\Python tutorial> pip install flask
+PS D:\Python tutorial> pip install pyjokes
+
+repl -window powershell 
+write python after that calculate
